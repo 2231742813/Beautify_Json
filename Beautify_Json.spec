@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['Beautify_Json.py','beautify_json_function.py'],
+    ['Beautify_Json.py','beautify_json_function.py','search_field.py'],
     pathex=[],
     binaries=[],
     datas=[],
